@@ -1,9 +1,5 @@
-import matplotlib
-import scipy
 from music21 import converter, instrument, note, chord, stream
-import numpy
 import glob
-import keras.utils.np_utils as np_utils
 import pickle
 
 genre = 'edm'
